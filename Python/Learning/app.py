@@ -1,7 +1,7 @@
 def main():
     yes = True
     while yes == True:
-        print("Destruction")
+        print("Bing chilling")
     else:
         exit()
 
