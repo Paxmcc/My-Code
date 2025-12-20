@@ -1,8 +1,13 @@
 def main():
     yes = True
     while yes == True:
-        print("Hello")
+        print("Bing chilling")
     else:
         exit()
 
-main()
+
+ON = True
+while ON == True:
+    main()
+else:
+    exit("Lag Switch is off. Turn on for Lag")
